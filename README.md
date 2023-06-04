@@ -4,7 +4,7 @@ This repository provides code snippets to help programmers make use of the [Open
 
 This code is written in JavaScript. The programs in each file are designed to work in Node.js -- v19.6.0 was used during testing. 
 
-There is a tutorial article to go with this repo: 
+There is a tutorial article to go with this repo: [medium.com/@hortfrancis/creating-a-gpt-powered-command-line-app-with-node-19e91de38120](https://medium.com/@hortfrancis/creating-a-gpt-powered-command-line-app-with-node-19e91de38120)
 
 ## How to use 
 
